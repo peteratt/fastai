@@ -110,3 +110,4 @@ dependencies:
   - ipywidgets
   - nbconvert
   - PyHamcrest
+  - pyarrow==0.10.0
